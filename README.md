@@ -2,7 +2,10 @@
 
 ## IT Support | Systems | Cloud | Cybersecurity
 
-I am an IT professional with experience in software support, AI model training, systems administration, and technical troubleshooting.
+I am an IT professional with experience in software support, AI model training, systems administration, and technical troubleshooting. I enjoy figuring out how things work, breaking them, fixing them, and occasionally asking myself why I decided to do that in the first place.
+I am currently expanding my skills in Python automation, Linux, Cloud infrastructure and security, and cybersecurity while building hands-on projects and homelab environments along the way. 
+
+This GitHub is where I document what I am building, learning, and experimenting with. 
 
 ### Certifications
 

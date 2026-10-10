@@ -16,6 +16,7 @@ This GitHub is where I document what I am building, learning, and experimenting 
 - CompTIA Project+
 - ITIL 4 Foundation
 - LPI Linux Essentials
+- Microsoft IT Support Specialist (cert)
 
 ### Technologies 
 

@@ -36,6 +36,7 @@ This GitHub is where I document what I am building, learning, and experimenting 
 - Microsoft SQL Server
 - SQLite
 - PostgreSQL
+- NoSQL
 - Microsoft Power BI
 - Tableau
 
